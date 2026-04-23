@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    justify-content:;
+    height: 100vh;
+    border: 1px solid gray;
+    gap: 1px;
+    align-items:;
+
+}
+
+main > div {
+border: 1px solid gray;
+width: 200px;
+height: 200px;
+}
+
+.filho01 {
+    background-color: yellow;
+}
+.filho02 {
+    background-color: greenyellow;
+}
+.filho03 {
+    background-color: green;
+}
+.filho04 {
+    background-color: goldenrod;
+}
