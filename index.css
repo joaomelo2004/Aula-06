@@ -8,11 +8,11 @@
 
 main {
     display: flex;
-    justify-content:;
+    justify-content: center ;
     height: 100vh;
     border: 1px solid gray;
     gap: 1px;
-    align-items:;
+    align-items: center;
 
 }
 
